@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\bin\Debug\list örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\bin\Debug\list örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\bin\Debug\list örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\list örnek\list örnek\obj\Debug\list örnek.pdb
